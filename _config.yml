@@ -51,9 +51,9 @@ experience_title: Research Experience #(Use this to override about experience se
 # education_title: Education #(Use this to override about education section title)
 
 # More Section
-# more_title:  #(Use this to override about more section title)
-# more_content: | # this will include new lines to allow paragraphs
-#  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+more_title:  Research Experience #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+ This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
 # Footer
 footer_show_references: true

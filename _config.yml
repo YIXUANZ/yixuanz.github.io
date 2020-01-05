@@ -5,7 +5,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 # Personal info
 name: Yixuan Zhang
 title: Ph.D student at the Ohio State University
-email: zhangyixuan0217@gmail.com
+email: zhang.7388 [at] osu.edu
 
 darkmode: false
 
@@ -48,11 +48,9 @@ about_content: | # this will include new lines to allow paragraphs
 # education_title: Education #(Use this to override about education section title)
 
 # More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+# more_title:  #(Use this to override about more section title)
+# more_content: | # this will include new lines to allow paragraphs
+#  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
 # Footer
 footer_show_references: true

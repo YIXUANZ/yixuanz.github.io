@@ -53,7 +53,7 @@ experience_title: Research Experience #(Use this to override about experience se
 # More Section
 more_title:  Research Experience #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  **Master Thesis** Design of Matching Criteria for Audio-based Polyphonic Score-following Systems Using Harmonic Product Spectra
+  **Master Thesis - ** Design of Matching Criteria for Audio-based Polyphonic Score-following Systems Using Harmonic Product Spectra
 
 # Footer
 footer_show_references: true

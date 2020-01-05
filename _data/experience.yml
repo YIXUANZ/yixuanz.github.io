@@ -1,10 +1,9 @@
 # Experience template
-# - layout: left
-#   company: Carnegie Mellon University
-# #   link: Link to company (optional)
-#   job_title: Master of Science
-#   dates: 2016-2018
-#   quote: >
-#    Short description of the company (optional)
-#   description: | # this will include new lines to allow paragraphs
-#     Description of role
+- layout: left
+  name: Design of Matching Criteria for Audio-Based Polyphonic Score-following Systems Using Harmonic Product Spectrum
+#   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description about the work on/with the project

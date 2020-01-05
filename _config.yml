@@ -33,10 +33,11 @@ linkedin_username: yixuan-zhang-88a36680
 # about_title: About Me (Use this to override about section title)
 about_profile_image: img/IMG_0341.png
 about_content: | # this will include new lines to allow paragraphs
-  I'm currently a PhD student in Perception and Neurodynamics Laboratory at the Ohio State University and advised by 
-  Dr. Deliang Wang. I received my bachelor degree from Southeast University and master degree from Carnegie Mellon 
-  University. 
-  I'm interested in music separation and pitch tracking.
+  I'm a Ph.D student major in computer science and engineering at the Ohio State University. I'm fortunate to work with
+  Dr. Deliang Wang in in Perception and Neurodynamics Laboratory. I received my bachelor degree from Southeast University 
+  and master degree from Carnegie Mellon University.
+  
+  I'm interested in music separation and multi-pitch tracking.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)

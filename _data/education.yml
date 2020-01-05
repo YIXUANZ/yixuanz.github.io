@@ -1,17 +1,17 @@
 # Education Template
-- layout: left
-  name: Southeast University
-  dates: 2012-2016
-  qualification: Bachelor of Engineering
+# - layout: left
+#   name: Southeast University
+#   dates: 2012-2016
+#   qualification: Bachelor of Engineering
 #   quote: >
 #     Major in Automation
 #   description: | # this will include new lines to allow paragraphs
 #     Advised by Dr.Siyu Xia
 
-- layout: left
-  name: Carnegie Mellon University
-  dates: 2016-2018
-  qualification: Master of Science
+# - layout: left
+#   name: Carnegie Mellon University
+#   dates: 2016-2018
+#   qualification: Master of Science
 #   quote: >
 #     Major in Music and Technology
 #   description: | # this will include new lines to allow paragraphs

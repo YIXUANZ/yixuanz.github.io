@@ -1,10 +1,10 @@
 # Experience template
-- layout: left
-  company: Carnegie Mellon University
-#   link: Link to company (optional)
-  job_title: Master of Science
-  dates: 2016-2018
-  quote: >
-   Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of role
+# - layout: left
+#   company: Carnegie Mellon University
+# #   link: Link to company (optional)
+#   job_title: Master of Science
+#   dates: 2016-2018
+#   quote: >
+#    Short description of the company (optional)
+#   description: | # this will include new lines to allow paragraphs
+#     Description of role

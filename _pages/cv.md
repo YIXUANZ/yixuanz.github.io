@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Work Experience"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Work experience
+Work Experience
 ======
 * Research Intern, 2021 Summer
   * Microsoft

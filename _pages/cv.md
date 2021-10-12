@@ -30,4 +30,4 @@ Work Experience
 
 Awards
 ======
-* Presidential Fellowship, 2013
+* Presidential Scholarship, 2013

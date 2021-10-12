@@ -29,7 +29,7 @@ Work Experience
 
 Thesis
 ======
-[Master Thesis](files/thesis.pdf), "Design of Matching Criteria for Audio-based Polyphonic Score-following Systems Using Harmonic Product Spectra", 2018
+[Master Thesis](files/thesis.pdf) advised by Dr. Richard Stern, "Design of Matching Criteria for Audio-based Polyphonic Score-following Systems Using Harmonic Product Spectra", 2018
 
 
 Awards

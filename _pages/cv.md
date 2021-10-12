@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Master Thesis
-======
-"Design of Matching Criteria for Audio-based Polyphonic Score-following Systems Using Harmonic Product Spectra",  [Master Thesis](files/thesis.pdf), 2018
 
 Work Experience
 ======
@@ -29,6 +26,10 @@ Work Experience
 * Graduate Teaching Assistant, 2017 Fall
   * Language Technology Institute, Carnegie Mellon University
   * 11-755 Machine Learning for Signal Processing
+
+Thesis
+======
+[Master Thesis](files/thesis.pdf), "Design of Matching Criteria for Audio-based Polyphonic Score-following Systems Using Harmonic Product Spectra", 2018
 
 
 Awards

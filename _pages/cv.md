@@ -29,7 +29,7 @@ Work Experience
 
 Thesis
 ======
-[Master Thesis]('http://yixuanz.github.io/files/thesis.pdf), "Design of Matching Criteria for Audio-based Polyphonic Score-following Systems Using Harmonic Product Spectra", advised by Dr. Richard Stern, 2018
+[Master Thesis]('http://yixuanz.github.io/files/thesis.pdf'), "Design of Matching Criteria for Audio-based Polyphonic Score-following Systems Using Harmonic Product Spectra", advised by Dr. Richard Stern, 2018
 
 
 Awards

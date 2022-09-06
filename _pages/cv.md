@@ -12,6 +12,10 @@ redirect_from:
 
 Work Experience
 ======
+* Research Intern, 2022 Summer
+  * Tencent AI Lab
+  * Work on acoustic echo cancellation
+
 * Research Intern, 2021 Summer
   * Microsoft
   * Work on continuous speech separation

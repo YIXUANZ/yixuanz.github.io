@@ -3,5 +3,5 @@ title: "Densely-connected Convolutional Recurrent Network for Fundamental Freque
 collection: publications
 date: 2022-09-01
 venue: 'Interspeech'
-excerpt: 'Yixuan Zhang, Heming Wang, DeLiang Wang'
+excerpt: 'Y. Zhang, H. Wang, D.L. Wang'
 ---

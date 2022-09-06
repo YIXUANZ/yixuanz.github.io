@@ -4,5 +4,5 @@ collection: publications
 date: 2022-07-01
 venue: 'ICASSP'
 paperurl: 'https://arxiv.org/abs/2110.14838'
-excerpt: 'Yixuan Zhang, Zhuo Chen, Jian Wu, Takuya Yoshioka, Peidong Wang, Zhong Meng, Jinyu Li'
+excerpt: 'Y. Zhang, Z. Chen, J. Wu, T. Yoshioka, P. Wang, Z. Meng, J. Li'
 ---

@@ -20,11 +20,11 @@ Work Experience
   * Microsoft
   * Work on continuous speech separation
 
-* Graduate Research Associate, 2019
+* Graduate Research Associate, 2019, 2022
   * Perception and Neurodynamics Laboratory (PNL), The Ohio State University
   * Work on singing voice separation and pitch tracking
 
-* Graduate Teaching Associate, 2018, 2020, 2021
+* Graduate Teaching Associate, 2018, 2020, 2021, 2022
   * Department of Computer Science and Engineering, The Ohio State University
 
 * Graduate Teaching Assistant, 2017 Fall

@@ -12,6 +12,10 @@ redirect_from:
 
 Work Experience
 ======
+* Research Intern, 2023 Summer
+  * Tencent AI Lab
+  * Work on acoustic howling suppression 
+
 * Research Intern, 2022 Summer
   * Tencent AI Lab
   * Work on acoustic echo cancellation
@@ -20,7 +24,7 @@ Work Experience
   * Microsoft
   * Work on continuous speech separation
 
-* Graduate Research Associate, 2019, 2022
+* Graduate Research Associate, 2019, 2022, 2023
   * Perception and Neurodynamics Laboratory (PNL), The Ohio State University
   * Work on singing voice separation and pitch tracking
 

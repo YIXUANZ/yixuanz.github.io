@@ -12,4 +12,4 @@ redirect_from:
   Professor [Deliang Wang](http://www.cse.ohio-state.edu/~dwang/) in [Perception and Neurodynamics Laboratory](http://web.cse.ohio-state.edu/pnl/). 
   I received my bachelor degree from Southeast University and master degree from Carnegie Mellon University.
   
-  I specialize in speech and music processing, focusing on utilizing deep learning techniques to tackle challenges such as audio separation, acoustic echo cancellation, howling suppression, and multi-pitch tracking.
+  I'm interested in speech and music processing, focusing on using deep learning to address tasks such as audio separation, acoustic echo cancellation, howling suppression, multi-pitch tracking, etc.
